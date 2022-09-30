@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Tema2_Opacidad"
         mc:Ignorable="d"
-        Title="MainWindow" Height="527" Width="979" Icon="/Recursos/Image.ico">
+        Title="Tema2-Opacidad" Height="527" Width="979" Icon="/Recursos/Image.ico">
     <Grid>
         <Image x:Name="Zoro_Imagen" HorizontalAlignment="Left" Opacity="0.5" IsMouseDirectlyOverChanged="RatonEncima" Height="265" Margin="10,80,0,0" VerticalAlignment="Top" Width="265" Source="Recursos/zoro.jpg" Stretch="Fill"/>
         <Image x:Name="Luffy_Imagen" HorizontalAlignment="Left" Opacity="0.5" IsMouseDirectlyOverChanged="RatonEncima" Height="265" Margin="295,80,0,0" VerticalAlignment="Top" Width="325" Source="Recursos/luffy.jpg" Stretch="Fill"/>
