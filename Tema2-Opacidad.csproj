@@ -94,7 +94,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="Recursos\Image.ico" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="Recursos\luffy.jpg" />
     <Resource Include="Recursos\sanji.jpg" />
